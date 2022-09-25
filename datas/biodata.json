@@ -1,0 +1,358 @@
+{
+  "biodata": [
+    {
+      "nama": "Charles Prabowo",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "MAULANA DWI WAHYUDI",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Musthafa Kamal Faishal",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Widodo Saputra",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "ANDREAS DIMAS CHRISTANTO",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "ERZA FAHMI FASYA",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Wahyu Tricahyo Mulyo",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Rocky Prabowo",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Alief Ahmad Azies",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Ahmad Faozan",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Reagent",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "cris limpar",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Rivaldo Juliano",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Edwin Kevin Kondo",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Firmando Parulian Situmorang",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Pandu Pramudya",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Iqbal Hadi Purnomo",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Donny Marcius",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "DIMAS KUNTO AJI",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Richardo Hans Martin",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Hilman Maulana Anhar",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Arfan Fadillah",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Surya Ferary Nainggolan",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Arif sutriyono",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Ricky Defian Saputra",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Muhammad Naufa Dzulfiqar",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Andromedha Anjar Wasari",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Rohmat Syamsul Huda",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Habib Abdurrasyid",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Renaldi Nurcahya Aditama",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "paulus josianlie",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Teddy Adhitya",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Naufal Ikhsan",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "kevin joshwadi malau",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Mursyied Qathafi",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Josua Williams Hasiholan Tampubolon",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Joy Sepindo Lumbantobing",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "REPI MAULANA RISYAN",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Ilham Fathur Robbani",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Falih Fauzan",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Haafidz Nurul Salim",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Edy Pratamajaya",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Wildan Taufiq Abdul Aziz",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Ahmad Fadhil",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Randy Nasuta",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Pradika Fajar Rillo Pambudi",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Muhammad Afif Ma'ruf",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Irham Sahbana",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "DWI SATRIA PATRA",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Azka Nurhuda",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Irfan Arsyad",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Toto Setiawan",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "ARI JOHAND LOMO",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Laurensius Yuda Wicaksono Nugroho",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Regy Saputra",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Ryan Novary Pradana",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Ahmad Siddiq",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "RYAN NALA KUSUMA",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    },
+    {
+      "nama": "Wildan Arif Pradana",
+      "alamat": "Indonesia",
+      "pekerjaan": "mahasiswa",
+      "alasan_memiilih_golang": "karena bahasa pemrograman yang sedang dibutuhkan"
+    }
+  ]
+}
